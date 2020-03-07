@@ -17,9 +17,9 @@
 +rollDice():number
 +isWinner():boolean
 +isLoser():boolean
--play():boolean
--playOneGame():string
--playManyGames(number):number
++play():boolean
++playOneGame():string
++playManyGames(number):number
 </panel_attributes>
     <additional_attributes/>
   </element>
@@ -35,8 +35,8 @@
 --
 -number
 --
-roll():number
-getValue():number
++roll():number
++getValue():number
 </panel_attributes>
     <additional_attributes/>
   </element>
@@ -45,13 +45,13 @@ getValue():number
     <coordinates>
       <x>180</x>
       <y>270</y>
-      <w>80</w>
+      <w>40</w>
       <h>180</h>
     </coordinates>
     <panel_attributes>lt=-
 m1=1
 m2=2
-uses ^</panel_attributes>
+</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;160.0</additional_attributes>
   </element>
 </diagram>
